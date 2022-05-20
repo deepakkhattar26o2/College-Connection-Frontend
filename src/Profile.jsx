@@ -124,9 +124,6 @@ export default function Profile() {
                         <p>{userr.bio}</p>
                       </div>
                     </div>
-                    {/* <button className="followButton" onClick={handleFollow} >
-            Follow
-          </button> */}
                   </div>
                   <div
                     className="col-md-7 right_box"
